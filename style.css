@@ -1,0 +1,41 @@
+.travel_mainDiv
+{
+border: 3px dashed pink;
+padding:8px;
+}
+
+.travel_mainDiv img
+{
+width: 100%;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin:20%;
+    font-size:30px;
+    font-family:cursive;
+}
+
+h2{
+    font-family: cursive;
+    font-size:40px;
+    accent-color:pink;
+}
+
+.movie_head{
+    font-size:20px;
+    border-style: dashed;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    border-color: pink;
+    border-width:3px;
+}
+
+.movie_head i{
+    float:right;
+}
+
+.achievment_text span{
+    color: orange;
+}
+
